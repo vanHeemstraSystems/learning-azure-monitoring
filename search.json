@@ -25,7 +25,7 @@
     "href": "topics/what-is-log-analytics.html",
     "title": "What is Log Analytics?",
     "section": "",
-    "text": "Source: Logging and Monitoring\n\nWhat is Log Analytics?\n Log Analytics is a service that helps you to collect and analyze data.\n\nAzure Monitor stores log data in the workspace.\nData in a workspace is organized into tables with properties you can query.\n\nA Log Analytics workspace provides:\n\nA geographic location for data storage.\nData isolation by granting different users access rights following one of our recommended design strategies.\nScope for configuration of settings like pricing tier, retention, and data capping"
+    "text": "Source: Logging and Monitoring\n\nWhat is Log Analytics?\n\n\n\nLog Analytics.\n\n\nLog Analytics is a service that helps you to collect and analyze data.\n\nAzure Monitor stores log data in the workspace.\nData in a workspace is organized into tables with properties you can query.\n\nA Log Analytics workspace provides:\n\nA geographic location for data storage.\nData isolation by granting different users access rights following one of our recommended design strategies.\nScope for configuration of settings like pricing tier, retention, and data capping"
   },
   {
     "objectID": "topics/review-azure-monitor-capabilities.html",
