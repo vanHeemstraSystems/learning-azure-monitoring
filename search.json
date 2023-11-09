@@ -21,6 +21,13 @@
     "text": "Source: Logging and Monitoring\n\nIdentify Data Sources and Access Method\n\n\n\nIdentify Data Sources and Access Method.\n\n\n\nData tiers go from Azure applications (highest tier) to Azure platform components (lowest tier).\nThe method of accessing data from each tier varies - for example, installing an agent.\nEach data tier can stream to different external systems.\nPrioritize and deliberate on what data sources you need."
   },
   {
+    "objectID": "topics/what-is-log-analytics.html",
+    "href": "topics/what-is-log-analytics.html",
+    "title": "What is Log Analytics?",
+    "section": "",
+    "text": "Source: Logging and Monitoring\n\nWhat is Log Analytics?\n Log Analytics is a service that helps you to collect and analyze data.\n\nAzure Monitor stores log data in the workspace.\nData in a workspace is organized into tables with properties you can query.\n\nA Log Analytics workspace provides:\n\nA geographic location for data storage.\nData isolation by granting different users access rights following one of our recommended design strategies.\nScope for configuration of settings like pricing tier, retention, and data capping"
+  },
+  {
     "objectID": "topics/review-azure-monitor-capabilities.html",
     "href": "topics/review-azure-monitor-capabilities.html",
     "title": "Review Azure Monitor Capabilities",
