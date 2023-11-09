@@ -19,7 +19,7 @@ website:
         - text: "---"
         - topics.qmd        
         - text: "---"
-        - topics/hybrid-identity.qmd
+        - topics/review-azure-monitor-capabilities.qmd
         - text: "---"       
         - topics/identity-protection.qmd
         - text: "---"
