@@ -32,7 +32,7 @@
     "href": "topics/considerations-for-acces-mode.html",
     "title": "Considerations for Access Mode",
     "section": "",
-    "text": "Source: Logging and Monitoring\n\nConsiderations for Access Mode\nThe access mode is how a user accesses the workspace and what data they can access.\n\n\n\nIssue\nWorkspace-context\nresource-context\n\n\n\n\nHow does the access mode work?\n- A\n-A\n\n\nWho is each model intended for?\nX\nX\n\n\nWhat does a user require to view logs?\nX\nX\n\n\nWhat is the scope of permissions?\nX\nX"
+    "text": "Source: Logging and Monitoring\n\nConsiderations for Access Mode\nThe access mode is how a user accesses the workspace and what data they can access.\n\n\n\n\n\n\n\n\nIssue\nWorkspace-context\nresource-context\n\n\n\n\nHow does the access mode work?\n- You can view logs in the workspace you have permission to.- Queries in this mode are scoped to all data in all tables in the workspace.- this is the access mode used when logs are accessed with the workspace as the scope.\n- When you access the workspace for a particular resource, resource group, or subscription.- You can view logs for only resources in all tables that you have access to.- Queries in this mode are scoped to only data associated with that resource.\n\n\nWho is each model intended for?\nCentral administration\nApplication teams\n\n\nWhat does a user require to view logs?\nPermissions to the workspace.\nRead access to the rescue.\n\n\nWhat is the scope of permissions?\nWorkspace.\nAzure resource."
   },
   {
     "objectID": "topics/considerations-for-workspace-access-control.html",
