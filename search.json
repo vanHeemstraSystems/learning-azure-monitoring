@@ -28,6 +28,13 @@
     "text": "Source: Logging and Monitoring\n\nWhat is Log Analytics?\n\n\n\nLog Analytics.\n\n\nLog Analytics is a service that helps you to collect and analyze data.\n\nAzure Monitor stores log data in the workspace.\nData in a workspace is organized into tables with properties you can query.\n\nA Log Analytics workspace provides:\n\nA geographic location for data storage.\nData isolation by granting different users access rights following one of our recommended design strategies.\nScope for configuration of settings like pricing tier, retention, and data capping"
   },
   {
+    "objectID": "topics/design-for-azure-workbooks.html",
+    "href": "topics/design-for-azure-workbooks.html",
+    "title": "Design for Azure Workbooks",
+    "section": "",
+    "text": "Source: Logging and Monitoring\n\nDesign for Azure Workbooks\n\n\n\nDesign for Azure Workbooks."
+  },
+  {
     "objectID": "topics/considerations-for-workspace-access-control.html",
     "href": "topics/considerations-for-workspace-access-control.html",
     "title": "Considerations for Workspace Access Control",
