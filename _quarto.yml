@@ -21,7 +21,7 @@ website:
         - text: "---"
         - topics/review-azure-monitor-capabilities.qmd
         - text: "---"       
-        - topics/identity-protection.qmd
+        - topics/identify-data-sources-and-access-method.qmd
         - text: "---"
         - topics/privileged-identity-management.qmd        
 format:
