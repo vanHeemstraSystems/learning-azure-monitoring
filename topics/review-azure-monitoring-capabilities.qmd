@@ -1,3 +1,10 @@
 ---
 title: "Review Azure Monitor Capabilities"
+css: ../styles.css
 ---
+
+Source: [Monitoring](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# Review Azure Monitor Capabilities
+
+![Azure Monitor Capabilities.](../images/review-azure-monitor-capabilities.png)
