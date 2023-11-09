@@ -9,3 +9,8 @@ Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-Desi
 Azure Data Explorer is a fast and highly scalable data exploration service for log and telemetry data.
 
 ![Azure Data Explorer.](../images/when-to-use-azure-data-explorer.png)
+
+- Helps you handle the many data streams emitted by modern software, so you can collect, store, and analyze data.
+- Azure Data Explorer is ideal for analyzing large volumes of diverse data from any data source, such as websites, applications, IoT devices, end more.
+- This data is used for diagnostics, monitoring, reporting, machine learning, and additional analytics capabilities.
+- Can combine with Azure Sentinel and Azure Monitor.
