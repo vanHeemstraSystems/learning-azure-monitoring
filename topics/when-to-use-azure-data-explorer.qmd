@@ -1,1 +1,11 @@
+---
+title: "When to use Azure Data Explorer?"
+css: ../styles.css
+---
 
+Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/08-Logging.html)
+
+# When to use Azure Data Explorer?
+Azure Data Explorer is a fast and highly scalable data exploration service for log and telemetry data.
+
+![Azure Data Explorer.](../images/when-to-use-azure-data-explorer.png)
