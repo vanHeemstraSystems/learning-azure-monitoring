@@ -25,7 +25,10 @@ website:
         - text: "---"
         - topics/what-is-log-analytics.qmd
         - text: "---"
-        - topics/considerations-for-workspace-access-control.qmd        
+        - topics/considerations-for-workspace-access-control.qmd  
+        - text: "---"
+        - topics/considerations-for-acces-mode.qmd
+
 format:
   html:
     theme: cosmo
