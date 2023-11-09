@@ -8,3 +8,8 @@ Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-Desi
 # Design for Azure Workbooks
 
 ![Design for Azure Workbooks.](../images/design-for-azure-workbooks.png)
+
+![Azure Workbooks Overview.](../images/azure-workbooks-overview.png)
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-overview
+
