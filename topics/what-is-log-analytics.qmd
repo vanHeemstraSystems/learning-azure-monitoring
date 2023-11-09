@@ -1,3 +1,20 @@
 ---
 title: "What is Log Analytics?"
+css: ../styles.css
 ---
+
+Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/08-Logging.html)
+
+# What is Log Analytics?
+
+![Log Analytics.](../images/what-is-log-analytics.png)
+Log Analytics is a service that helps you to collect and analyze data.
+
+- Azure Monitor stores log data in the workspace.
+- Data in a workspace is organized into tables with properties you can query.
+
+A Log Analytics workspace provides:
+
+- A geographic location for data storage.
+- Data isolation by granting different users access rights following one of our recommended design strategies.
+- Scope for configuration of settings like pricing tier, retention, and data capping
