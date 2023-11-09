@@ -7,6 +7,6 @@ Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-Desi
 
 # Design for Application Insights
 
-![Application Insight Overview.](../images/application-insights-overview.png)
+![Application Insights Overview.](../images/application-insights-overview.png)
 
 https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
