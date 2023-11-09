@@ -46,7 +46,7 @@
     "href": "topics/when-to-use-azure-data-explorer.html",
     "title": "When to use Azure Data Explorer?",
     "section": "",
-    "text": "Source: Logging and Monitoring\n\nWhen to use Azure Data Explorer?\nAzure Data Explorer is a fast and highly scalable data exploration service for log and telemetry data.\n\n\n\nAzure Data Explorer."
+    "text": "Source: Logging and Monitoring\n\nWhen to use Azure Data Explorer?\nAzure Data Explorer is a fast and highly scalable data exploration service for log and telemetry data.\n\n\n\nAzure Data Explorer.\n\n\n\nHelps you handle the many data streams emitted by modern software, so you can collect, store, and analyze data.\nAzure Data Explorer is ideal for analyzing large volumes of diverse data from any data source, such as websites, applications, IoT devices, end more.\nThis data is used for diagnostics, monitoring, reporting, machine learning, and additional analytics capabilities.\nCan combine with Azure Sentinel and Azure Monitor."
   },
   {
     "objectID": "topics/design-for-application-insights.html",
