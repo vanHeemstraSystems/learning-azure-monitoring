@@ -23,7 +23,9 @@ website:
         - text: "---"       
         - topics/identify-data-sources-and-access-method.qmd
         - text: "---"
-        - topics/what-is-log-analytics.qmd        
+        - topics/what-is-log-analytics.qmd
+        - text: "---"
+        - topics/considerations-for-workspace-access-control.qmd        
 format:
   html:
     theme: cosmo
