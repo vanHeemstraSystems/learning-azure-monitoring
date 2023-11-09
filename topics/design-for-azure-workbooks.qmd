@@ -1,1 +1,10 @@
+---
+title: "Design for Azure Workbooks"
+css: ../styles.css
+---
 
+Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/08-Logging.html)
+
+# Design for Azure Workbooks
+
+![Design for Azure Workbooks.](../images/design-for-azure-workbooks.png)
