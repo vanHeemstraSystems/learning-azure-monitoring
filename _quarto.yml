@@ -32,6 +32,8 @@ website:
         - topics/design-for-azure-workbooks.qmd
         - text: "---"
         - topics/design-for-application-insights.qmd
+        - text: "---"
+        - topics/when-to-use-azure-data-explorer.qmd
         
 format:
   html:
