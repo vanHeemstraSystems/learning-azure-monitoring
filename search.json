@@ -14,6 +14,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "topics/identify-data-sources-and-access-method.html",
+    "href": "topics/identify-data-sources-and-access-method.html",
+    "title": "Identify Data Sources and Access Method",
+    "section": "",
+    "text": "Source: Logging and Monitoring\n\nIdentify Data Sources and Access Method\n\n\n\nIdentify Data Sources and Access Method.\n\n\n\nData tiers go from Azure applications (highest tier) to Azure platform components (lowest tier).\nThe method of accessing data from each tier varies - for example, installing an agent.\nEach data tier can stream to different external systems.\nPrioritize and deliberate on what data sources you need."
+  },
+  {
     "objectID": "topics/review-azure-monitor-capabilities.html",
     "href": "topics/review-azure-monitor-capabilities.html",
     "title": "Review Azure Monitor Capabilities",
