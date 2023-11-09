@@ -28,6 +28,13 @@
     "text": "Source: Logging and Monitoring\n\nWhat is Log Analytics?\n\n\n\nLog Analytics.\n\n\nLog Analytics is a service that helps you to collect and analyze data.\n\nAzure Monitor stores log data in the workspace.\nData in a workspace is organized into tables with properties you can query.\n\nA Log Analytics workspace provides:\n\nA geographic location for data storage.\nData isolation by granting different users access rights following one of our recommended design strategies.\nScope for configuration of settings like pricing tier, retention, and data capping"
   },
   {
+    "objectID": "topics/considerations-for-acces-mode.html",
+    "href": "topics/considerations-for-acces-mode.html",
+    "title": "Considerations for Access Mode",
+    "section": "",
+    "text": "Source: Logging and Monitoring\n\nConsiderations for Access Mode\nThe access mode is how a user accesses the workspace and what data they can access.\n\n\n\nIssue\nWorkspace-context\nresource-context\n\n\n\n\nHow does the access mode work?\n- A\n-A\n\n\nWho is each model intended for?\nX\nX\n\n\nWhat does a user require to view logs?\nX\nX\n\n\nWhat is the scope of permissions?\nX\nX"
+  },
+  {
     "objectID": "topics/considerations-for-workspace-access-control.html",
     "href": "topics/considerations-for-workspace-access-control.html",
     "title": "Considerations for Workspace Access Control",
