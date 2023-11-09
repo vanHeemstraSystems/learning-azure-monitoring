@@ -23,7 +23,7 @@ website:
         - text: "---"       
         - topics/identify-data-sources-and-access-method.qmd
         - text: "---"
-        - topics/privileged-identity-management.qmd        
+        - topics/what-is-log-analytics.qmd        
 format:
   html:
     theme: cosmo
