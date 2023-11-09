@@ -1,3 +1,15 @@
 ---
 title: "Identify Data Sources and Access Method"
+css: ../styles.css
 ---
+
+Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/08-Logging.html)
+
+# Identify Data Sources and Access Method
+
+![Identify Data Sources and Access Method.](../images/identify-data-sources-and-access-method.png)
+
+- Data tiers go from Azure applications (highest tier) to Azure platform components (lowest tier).
+- The method of accessing data from each tier varies - for example, installing an agent.
+- Each data tier can stream to different external systems.
+- Prioritize and deliberate on what data sources you need.
