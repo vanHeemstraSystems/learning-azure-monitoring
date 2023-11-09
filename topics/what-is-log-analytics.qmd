@@ -8,6 +8,7 @@ Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-Desi
 # What is Log Analytics?
 
 ![Log Analytics.](../images/what-is-log-analytics.png)
+
 Log Analytics is a service that helps you to collect and analyze data.
 
 - Azure Monitor stores log data in the workspace.
