@@ -1,0 +1,12 @@
+---
+title: "Design for Application Insights"
+css: ../styles.css
+---
+
+Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/08-Logging.html)
+
+# Design for Application Insights
+
+![Application Insight Overview.](../images/application-insights-overview.png)
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
