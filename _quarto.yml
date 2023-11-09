@@ -30,7 +30,9 @@ website:
         - topics/considerations-for-access-mode.qmd
         - text: "---"
         - topics/design-for-azure-workbooks.qmd
-
+        - text: "---"
+        - topics/design-for-application-insights.qmd
+        
 format:
   html:
     theme: cosmo
