@@ -28,6 +28,8 @@ website:
         - topics/considerations-for-workspace-access-control.qmd  
         - text: "---"
         - topics/considerations-for-access-mode.qmd
+        - text: "---"
+        - topics/design-for-azure-workbooks.qmd
 
 format:
   html:
