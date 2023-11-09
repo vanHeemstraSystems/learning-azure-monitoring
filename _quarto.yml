@@ -27,7 +27,7 @@ website:
         - text: "---"
         - topics/considerations-for-workspace-access-control.qmd  
         - text: "---"
-        - topics/considerations-for-acces-mode.qmd
+        - topics/considerations-for-access-mode.qmd
 
 format:
   html:
