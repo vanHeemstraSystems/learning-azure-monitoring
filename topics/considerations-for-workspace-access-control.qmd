@@ -8,4 +8,4 @@ Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-Desi
 # Considerations for Workspace Access Control
 Workspace deployment models include centralized, decentralized, and hybrid.
 
-![Azure Monitor Capabilities.](../images/considerations-for-workspace-access-control.png)
+![Workspace Access Control.](../images/considerations-for-workspace-access-control.png)
