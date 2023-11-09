@@ -1,1 +1,16 @@
+---
+title: "Considerations for Access Mode"
+css: ../styles.css
+---
 
+Source: [Logging and Monitoring](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/08-Logging.html)
+
+# Considerations for Access Mode
+The access mode is how a user accesses the workspace and what data they can access.
+
+|Issue|Workspace-context|resource-context|
+|---|---|---|
+|How does the access mode work?| - A|-A|
+|Who is each model intended for?|X|X|
+|What does a user require to view logs?|X|X|
+|What is the scope of permissions?|X|X|
