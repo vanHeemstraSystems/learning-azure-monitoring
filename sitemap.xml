@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-monitoring/SUMMARY.html</loc>
-    <lastmod>2023-11-09T11:45:16.947Z</lastmod>
+    <lastmod>2023-11-09T11:53:04.781Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-monitoring/about.html</loc>
-    <lastmod>2023-11-09T11:45:16.487Z</lastmod>
+    <lastmod>2023-11-09T11:53:04.341Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-monitoring/topics/identify-data-sources-and-access-method.html</loc>
-    <lastmod>2023-11-09T11:45:16.027Z</lastmod>
+    <lastmod>2023-11-09T11:53:03.897Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-monitoring/topics/what-is-log-analytics.html</loc>
-    <lastmod>2023-11-09T11:45:15.519Z</lastmod>
+    <lastmod>2023-11-09T11:53:03.397Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-monitoring/topics/considerations-for-acces-mode.html</loc>
+    <lastmod>2023-11-09T11:53:02.593Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-monitoring/topics/considerations-for-workspace-access-control.html</loc>
-    <lastmod>2023-11-09T11:45:14.991Z</lastmod>
+    <lastmod>2023-11-09T11:53:03.121Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-monitoring/topics/review-azure-monitor-capabilities.html</loc>
-    <lastmod>2023-11-09T11:45:15.771Z</lastmod>
+    <lastmod>2023-11-09T11:53:03.657Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-monitoring/index.html</loc>
-    <lastmod>2023-11-09T11:45:16.251Z</lastmod>
+    <lastmod>2023-11-09T11:53:04.117Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-monitoring/topics.html</loc>
-    <lastmod>2023-11-09T11:45:16.711Z</lastmod>
+    <lastmod>2023-11-09T11:53:04.557Z</lastmod>
   </url>
 </urlset>
