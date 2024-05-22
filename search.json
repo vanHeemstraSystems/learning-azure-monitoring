@@ -1,10 +1,54 @@
 [
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Table of contents",
+    "objectID": "topics/considerations-for-workspace-access-control.html",
+    "href": "topics/considerations-for-workspace-access-control.html",
+    "title": "Considerations for Workspace Access Control",
     "section": "",
-    "text": "Table of contents\n\nLearning Azure Monitoring"
+    "text": "Source: Logging and Monitoring\n\nConsiderations for Workspace Access Control\nWorkspace deployment models include centralized, decentralized, and hybrid.\n\n\n\nWorkspace Access Control.",
+    "crumbs": [
+      "Topics",
+      "Considerations for Workspace Access Control"
+    ]
+  },
+  {
+    "objectID": "topics/when-to-use-azure-data-explorer.html",
+    "href": "topics/when-to-use-azure-data-explorer.html",
+    "title": "When to use Azure Data Explorer?",
+    "section": "",
+    "text": "Source: Logging and Monitoring\n\nWhen to use Azure Data Explorer?\nAzure Data Explorer is a fast and highly scalable data exploration service for log and telemetry data.\n\n\n\nAzure Data Explorer.\n\n\n\nHelps you handle the many data streams emitted by modern software, so you can collect, store, and analyze data.\nAzure Data Explorer is ideal for analyzing large volumes of diverse data from any data source, such as websites, applications, IoT devices, end more.\nThis data is used for diagnostics, monitoring, reporting, machine learning, and additional analytics capabilities.\nCan combine with Azure Sentinel and Azure Monitor.",
+    "crumbs": [
+      "Topics",
+      "When to use Azure Data Explorer?"
+    ]
+  },
+  {
+    "objectID": "topics/considerations-for-access-mode.html",
+    "href": "topics/considerations-for-access-mode.html",
+    "title": "Considerations for Access Mode",
+    "section": "",
+    "text": "Source: Logging and Monitoring\n\nConsiderations for Access Mode\nThe access mode is how a user accesses the workspace and what data they can access.\n\n\n\n\n\n\n\n\nIssue\nWorkspace-context\nResource-context\n\n\n\n\nHow does the access mode work?\n- You can view logs in the workspace you have permission to.- Queries in this mode are scoped to all data in all tables in the workspace.- This is the access mode used when logs are accessed with the workspace as the scope.\n- When you access the workspace for a particular resource, resource group, or subscription.- You can view logs for only resources in all tables that you have access to.- Queries in this mode are scoped to only data associated with that resource.\n\n\nWho is each model intended for?\nCentral administration.\nApplication teams.\n\n\nWhat does a user require to view logs?\nPermissions to the workspace.\nRead access to the rescue.\n\n\nWhat is the scope of permissions?\nWorkspace.\nAzure resource.",
+    "crumbs": [
+      "Topics",
+      "Considerations for Access Mode"
+    ]
+  },
+  {
+    "objectID": "topics/what-is-log-analytics.html",
+    "href": "topics/what-is-log-analytics.html",
+    "title": "What is Log Analytics?",
+    "section": "",
+    "text": "Source: Logging and Monitoring\n\nWhat is Log Analytics?\n\n\n\nLog Analytics.\n\n\nLog Analytics is a service that helps you to collect and analyze data.\n\nAzure Monitor stores log data in the workspace.\nData in a workspace is organized into tables with properties you can query.\n\nA Log Analytics workspace provides:\n\nA geographic location for data storage.\nData isolation by granting different users access rights following one of our recommended design strategies.\nScope for configuration of settings like pricing tier, retention, and data capping",
+    "crumbs": [
+      "Topics",
+      "What is Log Analytics?"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Azure Monitoring",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nTopics\nSee Topics"
   },
   {
     "objectID": "about.html",
@@ -14,66 +58,54 @@
     "text": "About this site"
   },
   {
-    "objectID": "topics/identify-data-sources-and-access-method.html",
-    "href": "topics/identify-data-sources-and-access-method.html",
-    "title": "Identify Data Sources and Access Method",
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
     "section": "",
-    "text": "Source: Logging and Monitoring\n\nIdentify Data Sources and Access Method\n\n\n\nIdentify Data Sources and Access Method.\n\n\n\nData tiers go from Azure applications (highest tier) to Azure platform components (lowest tier).\nThe method of accessing data from each tier varies - for example, installing an agent.\nEach data tier can stream to different external systems.\nPrioritize and deliberate on what data sources you need."
-  },
-  {
-    "objectID": "topics/what-is-log-analytics.html",
-    "href": "topics/what-is-log-analytics.html",
-    "title": "What is Log Analytics?",
-    "section": "",
-    "text": "Source: Logging and Monitoring\n\nWhat is Log Analytics?\n\n\n\nLog Analytics.\n\n\nLog Analytics is a service that helps you to collect and analyze data.\n\nAzure Monitor stores log data in the workspace.\nData in a workspace is organized into tables with properties you can query.\n\nA Log Analytics workspace provides:\n\nA geographic location for data storage.\nData isolation by granting different users access rights following one of our recommended design strategies.\nScope for configuration of settings like pricing tier, retention, and data capping"
-  },
-  {
-    "objectID": "topics/design-for-azure-workbooks.html",
-    "href": "topics/design-for-azure-workbooks.html",
-    "title": "Design for Azure Workbooks",
-    "section": "",
-    "text": "Source: Logging and Monitoring\n\nDesign for Azure Workbooks\n\n\n\nDesign for Azure Workbooks.\n\n\n\n\n\nAzure Workbooks Overview.\n\n\nhttps://docs.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-overview"
-  },
-  {
-    "objectID": "topics/considerations-for-workspace-access-control.html",
-    "href": "topics/considerations-for-workspace-access-control.html",
-    "title": "Considerations for Workspace Access Control",
-    "section": "",
-    "text": "Source: Logging and Monitoring\n\nConsiderations for Workspace Access Control\nWorkspace deployment models include centralized, decentralized, and hybrid.\n\n\n\nWorkspace Access Control."
-  },
-  {
-    "objectID": "topics/when-to-use-azure-data-explorer.html",
-    "href": "topics/when-to-use-azure-data-explorer.html",
-    "title": "When to use Azure Data Explorer?",
-    "section": "",
-    "text": "Source: Logging and Monitoring\n\nWhen to use Azure Data Explorer?\nAzure Data Explorer is a fast and highly scalable data exploration service for log and telemetry data.\n\n\n\nAzure Data Explorer.\n\n\n\nHelps you handle the many data streams emitted by modern software, so you can collect, store, and analyze data.\nAzure Data Explorer is ideal for analyzing large volumes of diverse data from any data source, such as websites, applications, IoT devices, end more.\nThis data is used for diagnostics, monitoring, reporting, machine learning, and additional analytics capabilities.\nCan combine with Azure Sentinel and Azure Monitor."
+    "text": "Table of contents\n\nLearning Azure Monitoring"
   },
   {
     "objectID": "topics/design-for-application-insights.html",
     "href": "topics/design-for-application-insights.html",
     "title": "Design for Application Insights",
     "section": "",
-    "text": "Source: Logging and Monitoring\n\nDesign for Application Insights\n\n\n\nApplication Insights Overview.\n\n\nhttps://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview"
-  },
-  {
-    "objectID": "topics/considerations-for-access-mode.html",
-    "href": "topics/considerations-for-access-mode.html",
-    "title": "Considerations for Access Mode",
-    "section": "",
-    "text": "Source: Logging and Monitoring\n\nConsiderations for Access Mode\nThe access mode is how a user accesses the workspace and what data they can access.\n\n\n\n\n\n\n\n\nIssue\nWorkspace-context\nResource-context\n\n\n\n\nHow does the access mode work?\n- You can view logs in the workspace you have permission to.- Queries in this mode are scoped to all data in all tables in the workspace.- This is the access mode used when logs are accessed with the workspace as the scope.\n- When you access the workspace for a particular resource, resource group, or subscription.- You can view logs for only resources in all tables that you have access to.- Queries in this mode are scoped to only data associated with that resource.\n\n\nWho is each model intended for?\nCentral administration.\nApplication teams.\n\n\nWhat does a user require to view logs?\nPermissions to the workspace.\nRead access to the rescue.\n\n\nWhat is the scope of permissions?\nWorkspace.\nAzure resource."
+    "text": "Source: Logging and Monitoring\n\nDesign for Application Insights\n\n\n\nApplication Insights Overview.\n\n\nhttps://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview",
+    "crumbs": [
+      "Topics",
+      "Design for Application Insights"
+    ]
   },
   {
     "objectID": "topics/review-azure-monitor-capabilities.html",
     "href": "topics/review-azure-monitor-capabilities.html",
     "title": "Review Azure Monitor Capabilities",
     "section": "",
-    "text": "Source: Logging and Monitoring\n\nReview Azure Monitor Capabilities\n\n\n\nAzure Monitor Capabilities."
+    "text": "Source: Logging and Monitoring\n\nReview Azure Monitor Capabilities\n\n\n\nAzure Monitor Capabilities.",
+    "crumbs": [
+      "Topics",
+      "Review Azure Monitor Capabilities"
+    ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning Azure Monitoring",
+    "objectID": "topics/identify-data-sources-and-access-method.html",
+    "href": "topics/identify-data-sources-and-access-method.html",
+    "title": "Identify Data Sources and Access Method",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nTopics\nSee Topics"
+    "text": "Source: Logging and Monitoring\n\nIdentify Data Sources and Access Method\n\n\n\nIdentify Data Sources and Access Method.\n\n\n\nData tiers go from Azure applications (highest tier) to Azure platform components (lowest tier).\nThe method of accessing data from each tier varies - for example, installing an agent.\nEach data tier can stream to different external systems.\nPrioritize and deliberate on what data sources you need.",
+    "crumbs": [
+      "Topics",
+      "Identify Data Sources and Access Method"
+    ]
+  },
+  {
+    "objectID": "topics/design-for-azure-workbooks.html",
+    "href": "topics/design-for-azure-workbooks.html",
+    "title": "Design for Azure Workbooks",
+    "section": "",
+    "text": "Source: Logging and Monitoring\n\nDesign for Azure Workbooks\n\n\n\nDesign for Azure Workbooks.\n\n\n\n\n\nAzure Workbooks Overview.\n\n\nhttps://docs.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-overview",
+    "crumbs": [
+      "Topics",
+      "Design for Azure Workbooks"
+    ]
   }
 ]
